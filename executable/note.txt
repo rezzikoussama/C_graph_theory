@@ -1,0 +1,2 @@
+the graphdrawing.exe is a c program that uses SDL library to draw a graph.
+this program can be called from the main.exe program.
